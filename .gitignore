@@ -1,0 +1,5 @@
+# gitignore for whisper-transcriptor
+audio/
+separated/htdemucs/
+transcription/lyrics/
+venv/
