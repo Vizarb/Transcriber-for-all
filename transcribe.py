@@ -82,8 +82,8 @@ def write_srt(segments, srt_path: Path) -> None:
     """
     with open(srt_path, "w", encoding="utf-8") as srt:
         for i, seg in enumerate(segments, 1):
-            start = _srt_ts(seg.start)
-            end = _srt_ts(seg.end)
+            start = srt_ts(seg.start)
+            end = srt_ts(seg.end)
             text = seg.text.strip()
             srt.write(f"{i}\n{start} --> {end}\n{text}\n\n")
 
