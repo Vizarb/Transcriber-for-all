@@ -1,0 +1,8 @@
+Detected language 'en' (p=1.00)
+Audio duration: 168.2 sec
+Audio duration_after_vad: 11.9 sec
+Transcript:
+
+I can't help the fact that everyone can see these scars I can't convince you to just believe this is real Always do
+ face the waiter
+ cause you're all that I got What I can but sometimes I don't make sense And I've never had a-
